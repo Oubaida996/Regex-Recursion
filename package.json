@@ -1,23 +1,15 @@
 {
-    "name": "prep-lab10",
+    "name": "Regex-Recursion",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "regex.test.js",
     "scripts": {
         "test": "jest"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Eng-Ahmad-Almohammad/prep-lab10.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/Eng-Ahmad-Almohammad/prep-lab10/issues"
-    },
-    "homepage": "https://github.com/Eng-Ahmad-Almohammad/prep-lab10#readme",
-    "devDependencies": {
+    "dependencies": {
         "jest": "^27.4.7"
     }
 }
